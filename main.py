@@ -24,7 +24,7 @@ text_splitter = RecursiveCharacterTextSplitter(
 
 texts = text_splitter.create_documents([state_of_the_union])
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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"
 
 # Get embedding model
 embeddings = OpenAIEmbeddings()
