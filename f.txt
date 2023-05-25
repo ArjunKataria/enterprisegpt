@@ -1,0 +1,350 @@
+A firewall is a network security device that monitors and filters incoming and outgoing network traffic based on predetermined security rules. A firewall is typically employed to prevent unauthorized access to a private network from a public network, such as the Internet. Firewalls can be either hardware-based or software-based, and they can be configured to filter traffic based on a variety of criteria, such as the source and destination addresses, the type of traffic, and the ports that are used.
+Firewalls are an essential component of network security, and they can help to protect networks from a variety of threats, such as unauthorized access, denial-of-service attacks, and malware infections.
+Here are some of the benefits of using a firewall:
+* Prevent unauthorized access to a network. A firewall can help to prevent unauthorized users from accessing a network. This can help to protect sensitive data and resources from being accessed by unauthorized individuals.
+* Protect against denial-of-service attacks. A firewall can help to protect against denial-of-service attacks. A denial-of-service attack is an attempt to make a network or service unavailable to its intended users. A firewall can help to mitigate the effects of a denial-of-service attack by blocking malicious traffic from reaching the network.
+* Protect against malware infections. A firewall can help to protect against malware infections. Malware is a type of software that is designed to harm or disable a computer system. A firewall can help to block malicious traffic from reaching the network, which can help to prevent malware infections.
+Here are some of the challenges of using a firewall:
+* Complexity. Firewalls can be complex to configure and manage. This is especially true for firewalls that are used in large or complex networks.
+* Cost. Firewalls can be expensive to purchase and maintain. The cost of a firewall will vary depending on the features and capabilities of the firewall.
+* Performance. Firewalls can have a negative impact on network performance. This is especially true for firewalls that are used in high-traffic networks.
+Overall, firewalls are an essential component of network security. They can help to protect networks from a variety of threats, such as unauthorized access, denial-of-service attacks, and malware infections. However, firewalls can be complex to configure and manage, and they can have a negative impact on network performance.﻿Information Security refers to the measures taken to protect and secure information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction. This includes protecting data and information in physical, technical and administrative ways to ensure its confidentiality, integrity and availability. Information security is important in protecting against cyber attacks, theft of sensitive information, and ensuring privacy.
+
+
+Information Security is the measures taken to protect the information from unauthorized access and use. It provides confidentiality, integrity, and availability. It is the superset that contains cyber security and network security. It is necessary for any organization or firm that works on a large scale.
+
+
+
+
+Examples and inclusion of Information Security are as follows:
+
+
+* Procedural Controls
+* Access Controls
+* Technical Controls
+* Compliance Controls
+
+
+
+
+Cyber Security:
+Cybersecurity is the method of protecting systems, networks, and programs from digital attacks. Cybersecurity involves techniques that help and secure various digital components Networks, data, and computer systems from Unauthorized digital access. There are multiple ways to implement cyber security depending on the kind of network you are connected to and the type of cyber-attacks you are prone to. Common Cyber Security Risks are Social engineering, Brute Force, Baiting, Ransomware. Cybersecurity is a subset of Information Security and a superset to Network Security. Cybersecurity is the method of protecting systems, networks, and programs from digital attacks.
+
+
+
+
+
+
+What is network security?
+
+
+Network Security is the measures taken by any enterprise or organization to secure its computer network and data using both hardware and software systems. This aims at securing the confidentiality and accessibility of the data and network. Every company or organization that handles a large amount of data, has a degree of solutions against many cyber threats. Network security is a subset of Cybersecurity and Information security. Network security is a feature that protects data as it travels through and across an organization’s network. As a result, it protects firm data from nefarious employees who are not authorized to view specific sensitive information. It protects the data flowing over the network. Network security ensures to protect the transit data only. It protects anything in the network realm. It deals with the protection from DOS attacks, viruses, and worms. It secures the data traveling across the network by terminals. Network security and cyber security are closely related but distinct concepts. Network security focuses on securing computer networks from unauthorized access, while cyber security encompasses all aspects of security in the digital world. Understanding the differences between these two concepts is important for individuals and organizations looking to protect their networks, devices, and data from cyber threats. By implementing effective network security and cyber security measures, individuals and organizations can better protect themselves from the growing number of cyber threats in today’s digital landscape.
+Network Security is a subfield of information security that focuses on the protection of networks, including both hardware and software components, from unauthorized access, misuse, and damage. Network security aims to protect the confidentiality, integrity and availability of data transmitted over a network. Common network security measures include firewalls, intrusion detection and prevention systems, encryption, and secure protocols such as VPN and HTTPS. Network security is essential for protecting sensitive information transmitted over the internet, as well as for maintaining the integrity and availability of networked systems and devices.
+
+
+
+
+Network Security is the measures taken by any enterprise or organization to secure its computer network and data using both hardware and software systems. This aims at securing the confidentiality and accessibility of the data and network. Every company or organization that handles a large amount of data, has a degree of solutions against many cyber threats.
+
+
+
+
+Network security encompasses all the steps taken to protect the integrity of a computer network and the data within it. Network security is important because it keeps sensitive data safe from cyber attacks and ensures the network is usable and trustworthy. Successful network security strategies employ multiple security solutions to protect users and organizations from malware and cyber attacks, like distributed denial of service. A network is composed of interconnected devices, such as computers, servers and wireless networks. Many of these devices are susceptible to potential attackers. Network security involves the use of a variety of software and hardware tools on a network or as software as a service. Security becomes more important as networks grow more complex and enterprises rely more on their networks and data to conduct business. Security methods must evolve as threat actors create new attack methods on these increasingly complex networks. No matter the specific method or enterprise security strategy, security is usually framed as everyone's responsibility because every user on the network represents a possible vulnerability in that network.
+
+
+
+
+Why is network security important?
+Network security is critical because it prevents cybercriminals from gaining access to valuable data and sensitive information. When hackers get hold of such data, they can cause a variety of problems, including identity theft, stolen assets and reputational harm.
+
+
+
+
+The following are four of the most important reasons why protecting networks and the data they hold is important:
+Operational risks. An organization without adequate network security risks disruption of its operations. Businesses and personal networks depend on devices and software that cannot operate effectively when compromised by viruses, malware and cyber attacks. Businesses also rely on networks for most internal and external communication.
+Financial risks for compromised personally identifiable information (PII). Data breaches can be expensive for both individuals and businesses. Organizations that handle PII, such as Social Security numbers and passwords, are required to keep it safe. Exposure can cost the victims money in fines, restitution and repairing compromised devices. Data breaches and exposure also can ruin a company's reputation and expose it to lawsuits.
+Financial risk for compromised intellectual property. Organizations can also have their own intellectual property stolen, which is costly. The loss of a company's ideas, inventions and products can lead to loss of business and competitive advantages.
+Regulatory issues. Many governments require businesses to comply with data security regulations that cover aspects of network security. For example, medical organizations in the United States are required to comply with the regulations of the Health Insurance Portability and Accountability Act (HIPAA), and organizations in the European Union that deal with citizens' data must follow the General Data Protection Regulation (GDPR). Violations of these regulations can lead to fines, bans etc.
+
+
+
+What is network security management?
+Effective network security management is a foundational element of a successful defense. At a high level, network security management aims to maintain the confidentiality, integrity and availability of the infrastructure in order to safeguard all assets connected to and through it.
+
+
+Network security management uses a mix of policies, processes and technology to protect infrastructure resources. Key technology elements include VPNs, firewalls, intrusion prevention systems, network access control, and security information and event management services. DDoS protection tools are also an important part of a successful network defense.
+
+
+
+
+
+
+How does network security work?
+Network security is enforced using a combination of hardware and software tools. The primary goal of network security is to prevent unauthorized access into or between parts of a network.
+A security official or team determines strategies and policies that keep an organization's network safe and help it comply with security standards and regulations. Everyone on the network must abide by these security policies. Every point in the network where an authorized user could access data is also a point where data can be compromised, either by a malicious actor or through user carelessness or mistakes.
+
+
+
+
+
+
+
+
+Network security consists of various features and solutions; examples and inclusion of Network Security are as follows:
+* Firewall
+* Network Segmentation
+* Remote Access VPN
+* Email Security
+* Intrusion Prevention Systems (IPS)
+* Unified Threat Management
+* Advance Network Threat Prevention
+* Cloud access security brokers
+* Sandboxing
+* Hyperscale Network Security.
+* Data Loss Prevention (DLP)
+* Link Load Balancer
+* D-Dos protection (Anti-DDos solution) - Distributed Denial of Service
+* NGFW - Next-Gen Firewall
+* NIPS - Network Intrusion Prevention System
+* Proxy / SWG - Secure Web Gateway
+* NAC - Network Access Control
+* Network behaviour anomaly detection
+* SD-WAN security
+
+
+
+
+Types of network security software and tools, and how to choose them?
+The choice of security policies and tools varies from network to network and changes over time. Strong security often involves using multiple approaches, known as layered security or defense in depth to give organizations as many security controls as possible. The following are some commonly used types of network security tools and software:
+
+
+* Network Access control: This method limits access to network applications and systems to a specific group of users and devices. These systems deny access to users and devices not already sanctioned. Network access control or NAC is an approach to network management and security that supports network visibility and access management. It consists of policies, procedures, protocols, tools and applications that define, restrict and regulate what an individual or component can or cannot do on a network. NAC products enable compliant, authenticated and trusted endpoint devices and nodes to access network resources and infrastructure. For noncompliant devices, NAC can deny network access, place them in quarantine or restrict access, thus keeping insecure nodes from infecting the network. Vendors for Network Access control are Aruba Networks, Cisco, Forescout Technologies, Fortinet and Pulse Secure
+* Antivirus and antimalware: Antivirus and antimalware are software designed to detect, remove or prevent viruses and malware, such as Trojan horses, ransomware and spyware, from infecting a computer and, consequently, a network.
+* Application security: It is crucial to monitor and protect applications that organizations use to run their businesses. This is true whether an organization creates that application or buys it, as modern malware threats often target open source code and containers that organizations use to build software and applications.
+* Behavioral analytics: This method analyzes network behavior and automatically detects and alerts organizations to abnormal activities.
+* Cloud security: Cloud providers often sell add-on cloud security tools that provide security capabilities in their cloud. The cloud provider manages the security of its overall infrastructure and offers tools for the user to protect their instances within the overall cloud infrastructure.
+* Data loss prevention (DLP): These tools monitor data in use, in motion and at rest to detect and prevent data breaches. DLP often classifies the most important and at-risk data and trains employees in best practices to protect that data. For instance, not sending important files as attachments in emails is one such best practice.
+* Email security: Email is one of the most vulnerable points in a network. Employees become victims of phishing and malware attacks when they click on email links that secretly download malicious software. Email is also an insecure method of sending files and sensitive data that employees unwittingly engage in.
+* Firewall: Software or firmware inspects incoming and outgoing traffic to prevent unauthorized network access. Firewalls are some of the most widely used security tools. They are positioned in multiple areas on the network. Next-generation firewalls offer increased protection against application-layer attacks and advanced malware defense with inline deep packet inspection. Firewalls are the first line of defense in network security. These network applications or devices monitor and control the flow of incoming and outgoing network traffic between a trusted internal network and untrusted external networks. Network traffic is evaluated based on state, port and protocol, with filtering decisions made based on both administrator-defined security policy and static rules. Firewalls can be broken into subcategories based on their underlying technology, such as proxy, stateful inspection, deep inspection or next generation. Next-generation firewalls (NGFWs) perform all the functions of other firewalls but add application-level inspection and intrusion prevention systems (IPSes) and use threat intelligence from outside the firewall. Examples of Firewall vendors: Check Point Software, Cisco, Juniper Networks and Palo Alto Networks
+* Intrusion detection system (IDS): An IDS detects unauthorized access attempts and flags them as potentially dangerous but does not remove them. An IDS and an intrusion prevention system (IPS) are often used in combination with a firewall.
+* Intrusion prevention system: IPSes are designed to prevent intrusions by detecting and blocking unauthorized attempts to access a network. Network IPSes are software products that provide continuous monitoring of the network or system activities and analyze them for signs of policy violations, deviations from standard security practices or malicious activity. They log, alert and react to discovered issues. IPS products compare current activity with a list of signatures known to represent threats. They can also use alternative detection methods -- such as protocol analysis, anomaly and behavioral detection or heuristics -- to discover suspicious network activity and malicious software. Sophisticated IPSes use threat intelligence and machine learning to increase accuracy. Software Vendors for Intrusion prevention system or IPSes are Alert Logic, Check Point Software, Cisco, McAfee and Trend Micro
+* Mobile device security: Business applications for smartphones and other mobile devices have made these devices an important part of network security. Monitoring and controlling which mobile devices access a network and what they do once connected to a network is crucial for modern network security.
+* Multifactor authentication (MFA): MFA is an easy-to-employ and increasingly popular network security solution that requires two or more factors to verify a user's identity. An example of this is Google Authenticator, an app which generates unique security codes that a user enters alongside their password to verify their identity.
+* Network segmentation: Organizations with large networks and network traffic often use network segmentation to break a network into smaller, easier-to-manage segments. This approach gives organizations more control of and increased visibility into traffic flow. Industrial network security is a subset of network segmentation, providing increased visibility into industrial control systems (ICSes). ICSes are more at risk to cyber threats because of increased integration with the cloud.
+* Sandboxing: This approach lets organizations scan for malware by opening a file in an isolated environment before granting it access to the network. Once opened in a sandbox, an organization can observe whether the file acts in a malicious way or shows any indications of malware.
+* Security information and event management (SIEM): This security management technique logs data from applications and network hardware and monitors for suspicious behavior. When an anomaly is detected, the SIEM system alerts the organization and takes other appropriate action.
+* Software-defined perimeter (SDP): An SDP is a security method that sits on top of the network it protects, concealing it from attackers and unauthorized users. It uses identity criteria to limit access to resources and forms a virtual boundary around networked resources.
+* Virtual private network (VPN): A VPN secures the connection from an endpoint to an organization's network. It uses tunneling protocols to encrypt information that is sent over a less secure network. Remote access VPNs let employees access their company network remotely.
+* Web security: This practice controls employee web use on an organization's network and devices, including blocking certain threats and websites, while also protecting the integrity of an organization's websites themselves.
+* Wireless security: Wireless networks are one of the riskiest parts of a network and require stringent protections and monitoring. It's important to follow wireless security best practices, such as segmenting Wi-Fi users by service set identifiers, or SSIDs, and using 802.1X authentication. Good monitoring and auditing tools are also needed to ensure wireless network security.
+* Workload security: When organizations balance workloads among multiple devices across cloud and hybrid environments, they increase the potential attack surfaces. Workload security measures and secure load balancers are crucial to protecting the data contained in these workloads.
+* Zero-trust network access: Similar to network access control, zero-trust network access only grants a user the access they must have to do their job. It blocks all other permissions.
+* Unified threat management or UTM product integrates multiple networking and network security functions into a single appliance, while offering consolidated management. UTM devices must include network routing, firewalling, network intrusion prevention and gateway antivirus. They generally offer many other security applications, such as VPN, remote access, URL filtering and quality of service. Unified management of all these functions is required, as the converged platform is designed to increase overall security, while reducing complexity. UTM devices are best suited for SMBs and for branch and remote sites. UTM products are the second-largest network security category with. Few software vendors that provide Unified threat management are: Barracuda Networks, Fortinet, SonicWall, Sophos and WatchGuard
+* Advanced network threat prevention products perform signatureless malware discovery at the network layer to detect cyber threats and attacks that employ advanced malware and persistent remote access. These products employ heuristics, code analysis, statistical analysis, emulation and machine learning to flag and sandbox suspicious files. Sandboxing -- the isolation of a file from the network so it can execute without affecting other resources -- helps identify malware based on its behavior rather than through fingerprinting. The benefit of advanced network threat prevention tools is their ability to detect malware that has sophisticated evasion or obfuscation capabilities, as well as detect new malware that hasn't been previously identified. Additionally, they validate threat information and uncover critical indicators of compromise that can be used for future investigations and threat hunting. Few prominent vendors that provide Advanced network threat prevention are Check Point Software, FireEye, Forcepoint, Palo Alto Networks and Symantec.
+* DDoS mitigation is a set of hardening techniques, processes and tools that enable a network, information system or IT environment to resist or mitigate the effect of DDoS attacks on networks. DDoS mitigation activities typically require analysis of the underlying system, network or environment for known and unknown security vulnerabilities targeted in a DDoS attack. This also requires identification of what normal conditions are -- through traffic analysis -- and the ability to identify incoming traffic to separate human traffic from humanlike bots and hijacked web browsers. DDoS mitigation uses connection tracking, IP reputation lists, deep packet inspection, blocklisting, allowlisting or rate limiting to filter traffic and mitigate attacks. Many times, organizations have their DDoS mitigation needs covered by specialized service providers, but the largest companies include DDoS mitigation as an in-house capability. Software vendors that provide DDoS mitigation are Cloudflare, F5 Networks, Imperva, Pulse Secure, NetScout and Radware
+* Network behavior anomaly detection or NBAD products provide real-time monitoring of network traffic for deviations in normal activity, trends or events. The tools complement traditional perimeter security systems with their ability to detect threats and stop suspicious activities that are unknown or specifically designed to avoid standard detection methods. When NBAD products discover unusual activity, they generate an alert that provides details and pass it on for further analysis. For NBAD to be optimally effective, it must establish a baseline of normal network or user behavior over a period of time. Once it defines certain parameters as normal, it can then flag any departure from one or more of those parameters. Few vendors that provide Network behavior anomaly detection are AT&T Cybersecurity, Cisco, Flowmon Networks, IBM Security and LogRhythm.
+* SD-WAN security: Advanced network security capabilities are increasingly being built into SD-WAN products. SD-WAN security overlays security components -- such as firewalls, IPSes, malware detection, content filtering and encryption -- onto SD-WANs to ensure the corporate security policy is enforced at all levels. SD-WAN security provides the ability to monitor and secure traffic that travels directly to the internet -- e.g., SaaS and IaaS -- which is an increasing portion of branch WAN bandwidth. SD-WAN security is adjacent to the network security market, as SD-WAN constitutes its own market with multiple vendors.
+
+
+
+
+
+
+
+
+Advantages of network security:
+* Network security provides protection against external threats like malware and hackers.
+* It can improve the performance and reliability of a network by preventing bottlenecks and ensuring that resources are allocated appropriately.
+* Network security measures can help organizations meet regulatory compliance requirements.
+* Network Security helps to protect against unauthorized access and other security threats, such as malware and viruses.
+* Network Security can ensure the confidentiality, integrity, and availability of network resources, data, and services.
+* Network Security can help organizations comply with regulations and standards related to data privacy and security.
+* Network Security can help improve the overall performance and reliability of the network.
+
+
+
+
+Disadvantages of network security:
+* Network security can be expensive to implement and maintain.
+* It can be complex to configure and manage, requiring specialized knowledge and skills.
+* Network security measures can sometimes slow down network performance or cause compatibility issues with other applications.
+* Network Security measures can be costly and time-consuming to implement and maintain.
+* Network Security measures can introduce additional complexity to the network, which may increase the risk of human error.
+* Network Security measures may not be foolproof and can be bypassed by determined attackers.
+
+
+
+
+Challenges in Network security and why should Implement it as soon as possible:
+* Evolving network attack methods. The biggest network security challenge is the rate at which cyber attacks evolve. Threat actors and their methods constantly change as technology changes. For example, new technology, such as blockchain, has led to new types of malware attacks, such as cryptojacking. As a result, network security defense strategies must adapt to these new threats.
+* User adherence. As mentioned, security is every network user's responsibility. It can be difficult for organizations to ensure that everyone is adhering to network security best practices, while simultaneously evolving those strategies to address the newest threats.
+* Remote and mobile access. More companies are adopting bring your own device policies, which means a more distributed and complex network of devices for organizations to protect. Remote work is also more prevalent. This makes wireless security more important, as users are more likely to be using a personal or public network when accessing company networks.
+* Third-party partners. Cloud providers, managed security services and security product vendors often get access to an organization's network, opening new potential vulnerabilities.
+
+
+
+
+Network layers and security
+Networks contain layers, as represented by the Open Systems Interconnection (OSI) model. Data passes through these layers as it travels among devices, and different cyber threats target different layers. Therefore, each layer in the stack must be secured for the network to be considered secure.
+
+
+
+
+
+
+Layers (ISO 7498-1)
+	ISO 7498-2 Security Model
+	Application
+	Authentication
+	Presentation
+	Access control
+	Session
+	Nonrepudiation
+	Transport
+	Data integrity
+	Network
+	Confidentiality
+	Data Link
+	Assurance and availability
+	Physical
+	Notarization and signature
+
+
+
+
+
+
+
+
+Every device in a computer network functions on multiple layers when processing information. Given that, each layer must be secure for the network to be considered secure. In other words, the word network in this definition of network security refers broadly to the corporate infrastructure as a whole, not just the network layer.
+
+
+For example, some people may make the distinction between cloud security and network security. Cloud security includes application security and container security, which exist outside of the network layer of the OSI model. However, those cloud functions can still be considered part of the overall corporate network, and securing them is part of network security.
+
+
+
+
+The simple definition of network security is any combination of hardware and software products that operate in Layers 3 and 4 -- the network and transport layers -- of the OSI stack, with the primary function to manage access to the corporate network and network-embedded resources. Network security acts as a gatekeeper that permits entry to authorized users and detects and prevents unauthorized access and anything that tries to infiltrate the network to cause harm or compromise data.
+
+
+
+
+
+
+
+
+Network security management best practices
+The human element is key to fortifying the network. Strong network security requires solid best practices carried out by both IT teams and the end users they support. This starts with knowing the network and what defenses are in place. Where are the gaps, and how is the organization going to address them?
+
+
+Other essential best practices include the following:
+
+
+* Employ effective policy development, communication and execution.
+* Implement network segregation.
+* Develop and deploy a zero-trust architecture and mindset of continuous verification.
+* Employ automation in workflow and incident response when possible.
+* Take steps to prevent insider theft or data loss.
+* Establish a strong end-user education program.
+* Recognize what baseline network activity looks like.
+* Proactively test systems to uncover vulnerabilities and poor configuration.
+* Have an effective networking monitoring service in place.
+
+
+Multifactor Authentication
+
+
+Multifactor authentication also known as MFA is a security technology that requires multiple methods of authentication from independent categories of credentials to verify a user's identity for a login or other transaction. Multifactor authentication combines two or more independent credentials: what the user knows, such as a password; what the user has, such as a security token; and what the user is, by using biometric verification methods. Multifactor authentication is a core component of an identity and access management framework. Multifactor authentication is a subset and critical part of your cybersecurity structure; and also cuts across all the pillars of cybersecurity. So MFA is essential for Data Security, Application Security, Endpoint Security, Network Security and Cloud Security
+Why is multifactor authentication important?
+As organizations digitize operations and take on greater liability for storing customer data, the risks and need for security increase. Because attackers have long exploited user login data to gain entry to critical systems, verifying user identity has become essential.
+Authentication based on usernames and passwords alone is unreliable and unwieldy, since users may have trouble storing, remembering, and managing them across multiple accounts, and many reuse passwords across services and create passwords that lack complexity. Passwords also offer weak security because of the ease of acquiring them through hacking, phishing, and malware.
+The goal of MFA is to create a layered defense that makes it more difficult for an unauthorized person to access a target, such as a physical location, computing device, network or database. If one factor is compromised or broken, the attacker still has at least one or more barriers to breach before successfully breaking into the target. One of the biggest shortcomings of traditional user ID and password logins is that passwords can be easily compromised, potentially costing organizations millions of dollars. Brute-force attacks are also a real threat, as bad actors can use automated password cracking tools to guess various combinations of usernames and passwords until they find the right sequence. Although locking an account after a certain number of incorrect login attempts can help protect an organization, hackers have numerous other methods for system access. This is why multifactor authentication is so important, as it can help reduce security risks.
+
+How does Multifactor authentication work or MFA Methods:
+MFA takes into consideration different methods of user authentication, this could be: Time, Location, Something you have, something you are, and something you know. MFA requires means of verification that unauthorized users won't have. Since passwords are insufficient for verifying identity, MFA requires multiple pieces of evidence to verify identity. The most common variant of MFA is two-factor authentication (2FA). The theory is that even if threat actors can impersonate a user with one piece of evidence, they won't be able to provide two or more.
+Proper multi-factor authentication uses factors from at least two different categories. Using two from the same category does not fulfill the objective of MFA. Despite wide use of the password/security question combination, both factors are from the knowledge category--and don't qualify as MFA. A password and a temporary passcode qualify because the passcode is a possession factor, verifying ownership of a specific email account or mobile device.
+An authentication factor is a category of credential used for identity verification. For MFA, each additional factor is intended to increase the assurance that an entity involved in some kind of communication or requesting access to a system is who -- or what -- it says it is. The use of multiple forms of authentication can help make a hacker's job more difficult. The three most common categories, or authentication factors, are often described as something you know, or the knowledge factor; something you have, or the possession factor; and something you are, or the inherence factor. MFA works by combining two or more factors from these categories.
+
+Knowledge factor: Knowledge-based authentication typically requires the user to answer a personal security question. Knowledge factor technologies generally include passwords, four-digit personal identification numbers (PINs) and one-time passwords (OTPs). Typical user scenarios include the following:
+* swiping a debit card and entering a PIN at the grocery checkout;
+* downloading a virtual private network client with a valid digital certificate and logging in to the VPN before gaining access to a network; and
+* providing information, such as mother's maiden name or previous address, to gain system access.
+
+Possession factor: Users must have something specific in their possession in order to log in, such as a badge, token, key fob or phone subscriber identity module (SIM) card. For mobile authentication, a smartphone often provides the possession factor in conjunction with an OTP app.
+Possession factor technologies include the following:
+* Security tokens are small hardware devices that store a user's personal information and are used to authenticate that person's identity electronically. The device may be a smart card, an embedded chip in an object, such as a Universal Serial Bus (USB) drive, or a wireless tag.
+* A software-based security token application generates a single-use login PIN. Soft tokens are often used for mobile multifactor authentication, in which the device itself -- such as a smartphone -- provides the possession factor authentication.
+Typical possession factor user scenarios include the following:
+* mobile authentication, where users receive a code via their smartphone to gain or grant access -- variations include text messages and phone calls sent to a user as an out-of-band method, smartphone OTP apps, SIM cards and smart cards with stored authentication data; and
+* attaching a USB hardware token to a desktop that generates an OTP and using it to log in to a VPN client.
+
+Inherence factor: Any biological traits the user has that are confirmed for login. Inherence factor technologies include the following Biometric verification methods:
+* retina or iris scan
+* fingerprint scan
+* Voice authentication
+* hand geometry
+* digital signature scanners
+* facial recognition
+* earlobe geometry
+Biometric device components include a reader, a database and software to convert the scanned biometric data into a standardized digital format and to compare match points of the observed data with stored data.
+Typical inherence factor scenarios include the following:
+* using a fingerprint or facial recognition to access a smartphone;
+* providing a digital signature at a retail checkout; and
+* identifying a criminal using earlobe geometry.
+
+Is multi-factor authentication complicated to use?
+Multi-factor authentication introduces an extra step or two during the login process, but it is not complicated. The security industry is creating solutions to streamline the MFA process, and authentication technology is becoming more intuitive as it evolves.
+For example, biometric factors like fingerprints and face scans offer fast, reliable logins. New technologies that leverage mobile device features like GPS, cameras, and microphones as authentication factors promise to further improve the identity verification process. Simple methods like push notifications only require a single tap to a user's smart phone or smart watch to verify their identity.
+How do organizations start using MFA?
+Many operating systems, service providers, and account-based platforms have incorporated MFA into their security settings. For single users or small businesses, using MFA is as simple as going to settings for operating systems, web platforms, and service providers and enabling the features.
+Larger organizations with their own network portals and complex user-management challenges may need to use an authentication apps that are listed on techjockey.com, which adds an extra authentication step during login.
+What are the pros and cons of MFA?
+Multifactor authentication was introduced to harden security access to systems and applications through hardware and software. The goal was to authenticate the identity of users and to assure the integrity of their digital transactions. The downside to MFA is that users often forget the answers to the personal questions that verify their identity, and some users share personal ID tokens and passwords. MFA has other benefits and disadvantages.
+Pros
+* adds layers of security at the hardware, software and personal ID levels;
+* can use OTPs sent to phones that are randomly generated in real time and is difficult for hackers to break;
+* can reduce security breaches by up to 99.9% over passwords alone;
+* can be easily set up by users;
+* enables businesses to opt to restrict access for time of day or location; and
+* has scalable cost, as there are expensive and highly sophisticated MFA tools but also more affordable ones for small businesses.
+Cons
+* a phone is needed to get a text message code;
+* hardware tokens can get lost or stolen;
+* phones can get lost or stolen;
+* the biometric data calculated by MFA algorithms for personal IDs, such as thumbprints, are not always accurate and can create false positives or negatives;
+* MFA verification can fail if there is a network or internet outage; and
+* MFA techniques must constantly be upgraded to protect against criminals who work incessantly to break them.
+
+To ensure multifactor authentication (MFA) in network security, you can follow these steps:
+1. Implement a strong password policy: Make sure that users create strong, unique passwords that are difficult to guess or brute force. Encourage the use of password managers to generate and store complex passwords.
+2. Choose an appropriate second factor: Select a second factor that complements the primary factor (password). Common choices include:
+a. One-time passwords (OTPs): These are temporary codes generated by an authentication app, hardware token, or sent via SMS. b. Biometric authentication: Use fingerprint or facial recognition scanners to verify identity. c. Security keys: These are physical devices that connect to the computer or smartphone and generate unique codes.
+3. Implement MFA solutions: Choose a reliable MFA solution that integrates with your network infrastructure. There are several options available, including:
+a. Time-based One-Time Password (TOTP) apps: Google Authenticator, Authy, or Microsoft Authenticator generate OTPs on mobile devices. b. Hardware tokens: Devices like YubiKey or RSA SecurID provide an extra layer of security by generating OTPs. c. Biometric authentication: Use built-in fingerprint or facial recognition capabilities of modern smartphones or dedicated biometric scanners.
+4. Apply MFA to critical systems and privileged accounts: Implement MFA for accessing critical systems, sensitive data, administrative accounts, and any other high-risk areas within your network.
+5. Educate users: Provide clear instructions on how to set up and use MFA. Educate users about the importance of MFA, potential security risks, and best practices for protecting their authentication factors.
+6. Regularly review and update MFA: Periodically assess your MFA implementation, review the effectiveness of chosen factors, and consider adopting new technologies or methods as they become available.
+Remember that while MFA significantly enhances security, it is not foolproof. It's important to continue implementing other security measures such as strong access controls, regular system updates, and security awareness training to ensure a comprehensive network security strategy.
+Multifactor authentication vs. two-factor authentication
+When authentication strategies were first introduced, the intent was to enforce security but to also keep it as simple as possible. Users were asked to supply only two forms of security keys that would inform a system that they were authentic and authorized users. Common forms of 2FA were user ID and password or automated teller machine (ATM) bank card and PIN.
+Unfortunately, hackers quickly discovered ways to buy or break passwords or to skim debit cards at ATMs. This prompted companies and security vendors to look for more hardened forms of user authentication that used additional security factors for verification.
+
+Multifactor authentication vs. single sign-on (SSO)
+MFA is a security enhancement, while SSO is a system for improving productivity by allowing users to use one set of login credentials to access multiple systems and applications that previously may have each required their own logins.
+While SSO works in conjunction with MFA, it does not replace it. Companies may require SSO--so corporate email names are used to log in--in addition to multi-factor authentication. SSO authenticates users with MFA and then, using software tokens, shares the authentication with multiple applications.
+
+Addressing the challenges of multifactor authentication
+Adding security factors to MFA further complicates ease of use for users who must remember multiple passwords. Consequently, the goal of MFA is to simplify MFA techniques for users. Here are three approaches being used to simplify MFA:
+   1. Adaptive MFA. This applies knowledge, business rules or policies to user-based factors, such as device or location. For example, a corporate VPN knows that it is OK for a user to sign on from home because it sees the user's location and can determine the risk of misuse or compromise. But an employee who accesses the VPN from a coffee shop will trigger the system and be required to enter MFA credentials.
+   2. Single sign-on (SSO). This one-stop authentication method enables users to maintain one account that automatically logs them in to multiple applications or websites with a single ID and password. SSO works by establishing the user's identity and then sharing this information with each application or system that requires it.
+   3. Push authentication. This is an automated mobile device authentication technique where the security system automatically issues a third, single-use identification code to the user's mobile device. For example, users who want to access a secured system enter their user ID and password and a security system automatically issues a third, single-use identification code to their mobile device. Users enter that code into the system to gain access. Push authentication simplifies MFA by providing users with a third code, eliminating the need to remember it.
+
+
+
+Techjockey links for
+
+Firewall techjockey link https://www.techjockey.com/search?keyword=firewall
+
+Cyber security techjockey link https://www.techjockey.com/category/security-software
+
+Email security techjockey link https://www.techjockey.com/category/email-security-software
