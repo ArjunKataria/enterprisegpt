@@ -8,7 +8,6 @@ from langchain.vectorstores import FAISS
 from langchain.llms import OpenAI
 from langchain.chains import RetrievalQA
 import streamlit as st
-
 from streamlit_chat import message
 
 # This is a long document we can split up.
@@ -25,8 +24,8 @@ text_splitter = RecursiveCharacterTextSplitter(
 
 texts = text_splitter.create_documents([state_of_the_union])
 
+os.environ["OPENAI_API_KEY"] = "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"
 
-os.environ["OPENAI_API_KEY"] = st.secrets["key"]
 # Get embedding model
 embeddings = OpenAIEmbeddings()
 
@@ -52,7 +51,7 @@ FINAL ANSWER
 Answer:
 
 'Answer step by step with  detailed  summary in minimum 350 words  and maximum 550 words of the question  with there pros and cons in new line with headers '
-'and give techjockey links for relevant question saying you can visit techjockey for comparing'
+'and give techjocjkey links for relevant question saying you can visit techjockey for comparing'
 
 
 """
