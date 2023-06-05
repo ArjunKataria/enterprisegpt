@@ -16,8 +16,8 @@ with open('f.txt') as f:
 
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 text_splitter = RecursiveCharacterTextSplitter(
-    chunk_size = 650,
-    chunk_overlap  = 50,
+    chunk_size = 450,
+    chunk_overlap  = 20,
     length_function = len,
 )
 
@@ -40,7 +40,7 @@ new_db = FAISS.load_local("faiss_indexall_product", embeddings)
 
 
 from langchain.prompts import PromptTemplate
-prompt_template = """Use the following pieces of context to answer the question at the end. Always give answer step by step with detailed short summary of the question with there pros and cons in new line.
+prompt_template = """Use the following pieces of context to answer the question at the end. Always give answer with short summary of the question.
 
 {context}
 
@@ -50,7 +50,7 @@ FINAL ANSWER
 
 Answer:
 
-'Answer step by step with  detailed  summary in minimum 350 words  and maximum 550 words of the question  with there PROS and CONS in new line with headers '
+'Answer step by step with a summary in minimum 100 words  and maximum 200 words of the question'
 'and give techjocjkey links for relevant question saying you can visit techjockey for comparing'
 
 
@@ -61,9 +61,9 @@ PROMPT = PromptTemplate(
 
 
 chain_type_kwargs = {"prompt": PROMPT}
-tp = OpenAI(model_name = "text-davinci-003",temperature=0.4,max_tokens=1200)
+tp = OpenAI(model_name = "text-davinci-003",temperature=0.2,max_tokens=300)
 qa = RetrievalQA.from_chain_type(llm=tp,
-                                 chain_type="stuff", retriever=new_db.as_retriever(search_type="mmr", search_kwargs={"score_threshold": .3}), chain_type_kwargs=chain_type_kwargs,verbose ='True')
+                                 chain_type="stuff", retriever=new_db.as_retriever(search_type="mmr", search_kwargs={"score_threshold": .99}), chain_type_kwargs=chain_type_kwargs,verbose ='True')
 
 from langchain.chat_models import ChatOpenAI
 from langchain.chains.conversation.memory import ConversationBufferWindowMemory
@@ -95,7 +95,7 @@ from langchain.agents import initialize_agent
 agent = initialize_agent(
     agent='conversational-react-description',
     tools=tools,
-    llm=tp,
+    llm=llm,
     stop=["\nObservation:"],
     max_iterations=1,
     memory=conversational_memory,
