@@ -50,7 +50,8 @@ FINAL ANSWER
 
 Answer:
 
-'Answer step by step with a summary in maximum 200 words of the question give techjocjkey links for relevant question saying you can visit techjockey for comparing'
+'Answer step by step with a detailed summary of the question in minimum 300 and maximum 500 words  and give there PROS and CONS new line with headers'
+'techjocjkey links for relevant question saying you can visit techjockey for comparing'
 
 
 """
@@ -60,9 +61,9 @@ PROMPT = PromptTemplate(
 
 
 chain_type_kwargs = {"prompt": PROMPT}
-tp = OpenAI(model_name = "text-davinci-003",temperature=0.1,max_tokens=400)
+tp = OpenAI(model_name = "text-davinci-003",temperature=0.3,max_tokens=900)
 qa = RetrievalQA.from_chain_type(llm=tp,
-                                 chain_type="stuff", retriever=new_db.as_retriever(search_type="mmr", search_kwargs={"score_threshold": .99}), chain_type_kwargs=chain_type_kwargs,verbose ='True')
+                                 chain_type="stuff", retriever=new_db.as_retriever(search_type="mmr", search_kwargs={"score_threshold": .9}), chain_type_kwargs=chain_type_kwargs,verbose ='True')
 
 from langchain.chat_models import ChatOpenAI
 from langchain.chains.conversation.memory import ConversationBufferWindowMemory
