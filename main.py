@@ -50,7 +50,7 @@ FINAL ANSWER
 
 Answer:
 
-'Answer step by step with a summary in minimum 100 words  and maximum 200 words of the question'
+'Answer step by step with a summary in maximum 200 words of the question'
 'and give techjocjkey links for relevant question saying you can visit techjockey for comparing'
 
 
