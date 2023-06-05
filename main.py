@@ -61,7 +61,7 @@ PROMPT = PromptTemplate(
 
 
 chain_type_kwargs = {"prompt": PROMPT}
-tp = OpenAI(model_name = "text-davinci-003",temperature=0.2,max_tokens=300)
+tp = OpenAI(model_name = "text-davinci-003",temperature=0.1,max_tokens=400)
 qa = RetrievalQA.from_chain_type(llm=tp,
                                  chain_type="stuff", retriever=new_db.as_retriever(search_type="mmr", search_kwargs={"score_threshold": .99}), chain_type_kwargs=chain_type_kwargs,verbose ='True')
 
